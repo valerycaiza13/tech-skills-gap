@@ -1,0 +1,21 @@
+course_id,course_name,skill_name,provider,duration_hours,modality
+C001,Python for backend developers,Python,Interno,10,Online
+C002,Designing REST APIs,APIs REST,Udemy,7,Online
+C003,SQL from zero to hero,Bases de datos SQL,Coursera,12,Online
+C004,AWS essentials,AWS,AWS Academy,10,Online
+C005,Modern JavaScript,JavaScript,Udemy,8,Online
+C006,React in practice,React,Interno,10,Online
+C007,CSS layouts advanced,CSS,Udemy,5,Online
+C008,Frontend testing foundations,Testing frontend,Interno,6,Online
+C009,SQL for analysts,SQL,Interno,10,Online
+C010,Python for data analysis,Python,Coursera,12,Online
+C011,Power BI essentials,Power BI,Interno,8,Online
+C012,Basic statistics for business,Estadística básica,Udemy,7,Online
+C013,AWS for DevOps,AWS,Interno,10,Online
+C014,CI/CD pipelines,CI/CD,Interno,8,Online
+C015,Docker fundamentals,Docker,Udemy,6,Online
+C016,Linux for DevOps,Linux,Interno,6,Online
+C017,Manual testing best practices,Testing manual,Interno,6,Online
+C018,Test automation intro,Testing automatizado,Udemy,8,Online
+C019,Selenium from scratch,Selenium,Coursera,10,Online
+C020,Test documentation essentials,Documentación de pruebas,Interno,4,Online

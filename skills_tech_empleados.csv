@@ -1,0 +1,41 @@
+employee_id,skill_name,skill_level,source
+T001,Python,3,Test Técnico
+T001,APIs REST,3,Manager Review
+T001,Bases de datos SQL,2,Test Técnico
+T001,AWS,2,Self Assessment
+T002,JavaScript,4,Test Técnico
+T002,React,3,Test Técnico
+T002,CSS,3,Self Assessment
+T002,Testing frontend,2,Manager Review
+T003,SQL,3,Test Técnico
+T003,Python,2,Test Técnico
+T003,Power BI,3,Self Assessment
+T003,Estadística básica,2,Manager Review
+T004,AWS,3,Test Técnico
+T004,CI/CD,3,Test Técnico
+T004,Docker,2,Self Assessment
+T004,Linux,3,Self Assessment
+T005,Testing manual,4,Manager Review
+T005,Testing automatizado,2,Test Técnico
+T005,Selenium,2,Test Técnico
+T005,Documentación de pruebas,3,Manager Review
+T006,Python,4,Test Técnico
+T006,APIs REST,4,Test Técnico
+T006,Bases de datos SQL,3,Test Técnico
+T006,AWS,2,Self Assessment
+T007,JavaScript,3,Test Técnico
+T007,React,2,Test Técnico
+T007,CSS,3,Self Assessment
+T007,Testing frontend,2,Manager Review
+T008,SQL,4,Test Técnico
+T008,Python,3,Test Técnico
+T008,Power BI,2,Self Assessment
+T008,Estadística básica,2,Manager Review
+T009,AWS,4,Test Técnico
+T009,CI/CD,3,Test Técnico
+T009,Docker,3,Self Assessment
+T009,Linux,3,Self Assessment
+T010,Testing manual,3,Manager Review
+T010,Testing automatizado,3,Test Técnico
+T010,Selenium,2,Test Técnico
+T010,Documentación de pruebas,2,Manager Review

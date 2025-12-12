@@ -1,0 +1,11 @@
+employee_id,nombre,apellido,departamento,rol_actual,location
+T001,David,Santos,Technology,Backend Developer,Valencia
+T002,Laura,Nieto,Technology,Frontend Developer,Madrid
+T003,Jorge,Muñoz,Technology,Data Analyst,Remoto
+T004,Paula,Domínguez,Technology,DevOps Engineer,Valencia
+T005,Irene,Castro,Technology,QA Engineer,Madrid
+T006,Andrés,Vega,Technology,Backend Developer,Madrid
+T007,Marta,Ríos,Technology,Frontend Developer,Valencia
+T008,Sergio,López,Technology,Data Analyst,Madrid
+T009,Clara,Giménez,Technology,DevOps Engineer,Remoto
+T010,Nuria,Paredes,Technology,QA Engineer,Valencia

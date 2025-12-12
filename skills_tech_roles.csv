@@ -1,0 +1,21 @@
+rol,skill_name,required_level,weight
+Backend Developer,Python,4,5
+Backend Developer,APIs REST,4,4
+Backend Developer,Bases de datos SQL,3,4
+Backend Developer,AWS,3,3
+Frontend Developer,JavaScript,4,5
+Frontend Developer,React,4,4
+Frontend Developer,CSS,3,3
+Frontend Developer,Testing frontend,3,3
+Data Analyst,SQL,4,5
+Data Analyst,Python,3,4
+Data Analyst,Power BI,3,4
+Data Analyst,Estadística básica,3,4
+DevOps Engineer,AWS,4,5
+DevOps Engineer,CI/CD,4,4
+DevOps Engineer,Docker,3,4
+DevOps Engineer,Linux,3,3
+QA Engineer,Testing manual,4,5
+QA Engineer,Testing automatizado,3,4
+QA Engineer,Selenium,3,3
+QA Engineer,Documentación de pruebas,3,3
